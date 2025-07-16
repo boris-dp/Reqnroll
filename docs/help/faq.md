@@ -24,6 +24,6 @@ Reqnroll code is hosted in GitHub, constributors are welcome - see [CONTRIBUTING
 
 All modern-ish versions of .NET and .NET Framework are [compatible](../installation/compatibility.md).
 
-**Where can I found Reqnroll NuGet packages?**
+**Where can I find Reqnroll NuGet packages?**
 
 In the [official NuGet](https://www.nuget.org/profiles/Reqnroll).
